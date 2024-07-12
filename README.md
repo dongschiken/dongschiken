@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 <div>
  안녕하세요! 기록하는 개발자 이동영(동스치킨)입니다.
+ <br>
 </div>
-<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <!--내용 부분-->
