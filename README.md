@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
- 안녕하세요 기록하는 개발자 이동영입니다.
+ 안녕하세요! 기록하는 개발자 이동영(동스치킨)입니다.
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
