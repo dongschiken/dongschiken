@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://nerdnook.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
   </a>
   <a href="don0421865@gmail.com">
     <img
