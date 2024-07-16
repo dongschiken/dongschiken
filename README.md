@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/IntelliJ IDEA-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=F37726" />&nbsp
-  <img src="https://img.shields.io/badge/Eclipse IDE-181717.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Eclipse IDE-F3F3F3.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp
 </div>
 
 <br>
