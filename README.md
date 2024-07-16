@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+ <img src="https://img.shields.io/badge/spring-150458.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" />&nbsp
 </div>
 
 <br>
