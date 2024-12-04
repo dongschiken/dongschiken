@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  <br>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongschiken&show_icons=true&theme=transparent)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
