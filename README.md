@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongschiken&show_icons=true&theme=transparent)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongschiken)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 ![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=dongschiken)
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
