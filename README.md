@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongschiken&show_icons=true&theme=transparent)
-<br>
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/generate_badge?boj=don042186)](https://solved.ac/don042186)
 <br>
