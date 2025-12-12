@@ -27,6 +27,6 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=don042186)](https://solv
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://nerdnook.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=Tistory&logoColor=white" />
   </a>
 </div>
